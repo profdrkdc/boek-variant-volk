@@ -1,7 +1,5 @@
 * Hoofdstuk 1
   * [Introductie](Hoofdstuk-1/01_Introductie.md)
-  * [Analyse van het Lijden](Hoofdstuk-1/02_Analyse-van-het-Lijden.md)
-  * [Conclusie](Hoofdstuk-1/03_Conclusie.md)
 
 * Hoofdstuk 2
   * [De Gedeelde Grond van Ethiek](Hoofdstuk-2/01_De-Gedeelde-Grond-van-Ethiek.md)
