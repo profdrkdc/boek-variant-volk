@@ -1,4 +1,6 @@
-De enige reden waarom we leven is om ervoor te zorgen dat de mensen die na ons komen een beter leven hebben dan wij.
+
+> _De enige reden waarom we leven, is om ervoor te zorgen dat de mensen die na ons komen een beter leven hebben dan wij._
+
 
 # Hoofdstuk 1: Welkom in de Werkplaats
 
